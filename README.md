@@ -1,6 +1,6 @@
 # LiPo-Battery-Charger
 KiCAD
-# Tipping Rain Guage
+# Lithium Polymer battery cahrger
 
 A single LiPo battery charger using Microchip's MCP73831/2.
 
