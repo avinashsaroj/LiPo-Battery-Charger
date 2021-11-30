@@ -13,4 +13,5 @@ A single LiPo battery charger using Microchip's MCP73831/2.
 4. LED for charge indication
 
 
-![Capture](https://user-images.githubusercontent.com/68055267/131791560-788c8eb4-4829-41df-9f99-b05374933ccf.PNG)
+
+![layout](https://user-images.githubusercontent.com/68055267/144070616-3e86a057-9be7-478a-9ea2-835a1f2e5ff1.PNG)
